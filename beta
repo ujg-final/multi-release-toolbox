@@ -1,0 +1,4 @@
+function beta
+  x = 5;
+  x
+end
